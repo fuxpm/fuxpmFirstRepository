@@ -33,4 +33,4 @@
 * Обновление локального репозитория (Pull / Fetch)
 * Слияние (Merge)
 
- ##newest update
+ ## newest update
